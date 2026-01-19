@@ -1,4 +1,4 @@
-package com.alfonso.hexagonal.hexagonal;
+package com.alfonso.hexagonal.infraestructure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
